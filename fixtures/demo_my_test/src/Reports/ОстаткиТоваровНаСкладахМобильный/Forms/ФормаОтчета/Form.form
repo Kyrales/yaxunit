@@ -123,14 +123,14 @@
   <autoUrl>true</autoUrl>
   <group>Vertical</group>
   <autoFillCheck>true</autoFillCheck>
-  <allowFormCustomize>true</allowFormCustomize>
+  <allowFormCustomize>false</allowFormCustomize>
   <enabled>true</enabled>
   <verticalScroll>UseIfNecessary</verticalScroll>
   <showTitle>true</showTitle>
   <showCloseButton>true</showCloseButton>
   <attributes>
     <name>Объект</name>
-    <id>1</id>
+    <id>6</id>
     <valueType>
       <types>ReportObject.ОстаткиТоваровНаСкладахМобильный</types>
     </valueType>
@@ -201,7 +201,7 @@
       <key>ru</key>
       <value>Информация расшифровки</value>
     </title>
-    <id>3</id>
+    <id>10</id>
     <valueType>
       <types>String</types>
       <stringQualifiers/>

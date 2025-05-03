@@ -6,7 +6,7 @@
   </title>
   <items xsi:type="form:Table">
     <name>СписокНастроек</name>
-    <id>2</id>
+    <id>32</id>
     <title>
       <key>ru</key>
       <value>Ранее сохраненные варианты</value>
@@ -32,7 +32,7 @@
     <excludedCommands>SetDeletionMark</excludedCommands>
     <items xsi:type="form:FormField">
       <name>Наименование</name>
-      <id>4</id>
+      <id>34</id>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
@@ -183,7 +183,7 @@
     </extendedTooltip>
     <contextMenu>
       <name>СписокНастроекКонтекстноеМеню</name>
-      <id>3</id>
+      <id>33</id>
       <items xsi:type="form:Button">
         <name>Удалить</name>
         <id>12</id>
@@ -254,7 +254,7 @@
   </items>
   <items xsi:type="form:FormField">
     <name>ИмяСохраняемойНастройки</name>
-    <id>1</id>
+    <id>8</id>
     <title>
       <key>ru</key>
       <value>Имя сохраняемого варианта</value>
@@ -446,7 +446,7 @@
   <autoUrl>true</autoUrl>
   <group>Vertical</group>
   <autoFillCheck>true</autoFillCheck>
-  <allowFormCustomize>true</allowFormCustomize>
+  <allowFormCustomize>false</allowFormCustomize>
   <enabled>true</enabled>
   <showTitle>true</showTitle>
   <showCloseButton>true</showCloseButton>
@@ -456,7 +456,7 @@
       <key>ru</key>
       <value>Список настроек</value>
     </title>
-    <id>1</id>
+    <id>31</id>
     <valueType>
       <types>DynamicList</types>
     </valueType>

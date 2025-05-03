@@ -2,10 +2,10 @@
 <form:Form xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:form="http://g5.1c.ru/v8/dt/form">
   <items xsi:type="form:FormGroup">
     <name>ГруппаВыбораДат</name>
-    <id>3</id>
+    <id>14</id>
     <items xsi:type="form:FormField">
       <name>ДатаОтображения</name>
-      <id>5</id>
+      <id>15</id>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
@@ -31,7 +31,7 @@
       </extendedTooltip>
       <contextMenu>
         <name>ДатаОтображенияКонтекстноеМеню</name>
-        <id>6</id>
+        <id>16</id>
         <autoFill>true</autoFill>
       </contextMenu>
       <type>CalendarField</type>
@@ -83,7 +83,7 @@
     <horizontalStretch>false</horizontalStretch>
     <extendedTooltip>
       <name>ГруппаВыбораДатРасширеннаяПодсказка</name>
-      <id>4</id>
+      <id>10</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
       <autoMaxHeight>true</autoMaxHeight>
@@ -594,7 +594,7 @@
   <autoUrl>true</autoUrl>
   <group>Vertical</group>
   <autoFillCheck>true</autoFillCheck>
-  <allowFormCustomize>true</allowFormCustomize>
+  <allowFormCustomize>false</allowFormCustomize>
   <enabled>true</enabled>
   <showTitle>true</showTitle>
   <showCloseButton>true</showCloseButton>
@@ -604,7 +604,7 @@
       <key>ru</key>
       <value>Планировщик</value>
     </title>
-    <id>1</id>
+    <id>12</id>
     <valueType>
       <types>Planner</types>
     </valueType>
@@ -622,7 +622,7 @@
       <key>ru</key>
       <value>Дата отображения</value>
     </title>
-    <id>2</id>
+    <id>13</id>
     <valueType>
       <types>Date</types>
       <dateQualifiers>
@@ -642,7 +642,7 @@
       <key>ru</key>
       <value>Вариант периода</value>
     </title>
-    <id>4</id>
+    <id>11</id>
     <valueType>
       <types>String</types>
       <stringQualifiers/>

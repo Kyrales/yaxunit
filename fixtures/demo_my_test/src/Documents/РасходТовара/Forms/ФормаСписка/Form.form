@@ -38,7 +38,7 @@
   </items>
   <items xsi:type="form:Table">
     <name>Список</name>
-    <id>1</id>
+    <id>16</id>
     <visible>true</visible>
     <enabled>true</enabled>
     <userVisible>
@@ -537,7 +537,7 @@
   <autoUrl>true</autoUrl>
   <group>Vertical</group>
   <autoFillCheck>true</autoFillCheck>
-  <allowFormCustomize>true</allowFormCustomize>
+  <allowFormCustomize>false</allowFormCustomize>
   <enabled>true</enabled>
   <showTitle>true</showTitle>
   <showCloseButton>true</showCloseButton>

@@ -6,10 +6,10 @@
   </title>
   <items xsi:type="form:FormGroup">
     <name>ГруппаДаты</name>
-    <id>4</id>
+    <id>29</id>
     <items xsi:type="form:FormField">
       <name>ДатаНачала</name>
-      <id>7</id>
+      <id>25</id>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
@@ -30,7 +30,7 @@
       </extendedTooltip>
       <contextMenu>
         <name>ДатаНачалаКонтекстноеМеню</name>
-        <id>8</id>
+        <id>27</id>
         <autoFill>true</autoFill>
       </contextMenu>
       <type>InputField</type>
@@ -53,7 +53,7 @@
     </items>
     <items xsi:type="form:FormField">
       <name>ДатаОкончания</name>
-      <id>5</id>
+      <id>32</id>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
@@ -74,7 +74,7 @@
       </extendedTooltip>
       <contextMenu>
         <name>ДатаОкончанияКонтекстноеМеню</name>
-        <id>6</id>
+        <id>26</id>
         <autoFill>true</autoFill>
       </contextMenu>
       <type>InputField</type>
@@ -1882,13 +1882,13 @@
   <autoUrl>true</autoUrl>
   <group>Vertical</group>
   <autoFillCheck>true</autoFillCheck>
-  <allowFormCustomize>true</allowFormCustomize>
+  <allowFormCustomize>false</allowFormCustomize>
   <enabled>true</enabled>
   <showTitle>true</showTitle>
   <showCloseButton>true</showCloseButton>
   <attributes>
     <name>Объект</name>
-    <id>1</id>
+    <id>31</id>
     <valueType>
       <types>DataProcessorObject.СписокАктивныхПользователей</types>
     </valueType>
@@ -1906,7 +1906,7 @@
       <key>ru</key>
       <value>Дата начала</value>
     </title>
-    <id>2</id>
+    <id>30</id>
     <valueType>
       <types>Date</types>
       <dateQualifiers/>
@@ -2084,7 +2084,7 @@
       <key>ru</key>
       <value>Комментарий</value>
     </title>
-    <id>9</id>
+    <id>24</id>
     <valueType>
       <types>String</types>
       <stringQualifiers/>
@@ -2102,7 +2102,7 @@
       <key>ru</key>
       <value>Метаданные</value>
     </title>
-    <id>10</id>
+    <id>23</id>
     <valueType>
       <types>ValueList</types>
     </valueType>
@@ -2169,7 +2169,7 @@
       <key>ru</key>
       <value>Статус транзакции</value>
     </title>
-    <id>13</id>
+    <id>20</id>
     <valueType>
       <types>ValueList</types>
     </valueType>
@@ -2201,7 +2201,7 @@
       <key>ru</key>
       <value>Транзакция</value>
     </title>
-    <id>14</id>
+    <id>22</id>
     <valueType>
       <types>String</types>
       <stringQualifiers/>

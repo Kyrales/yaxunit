@@ -38,7 +38,7 @@
   </items>
   <items xsi:type="form:Table">
     <name>Список</name>
-    <id>1</id>
+    <id>54</id>
     <visible>true</visible>
     <enabled>true</enabled>
     <userVisible>
@@ -52,7 +52,7 @@
     <titleLocation>None</titleLocation>
     <items xsi:type="form:FormField">
       <name>СписокНаименование</name>
-      <id>4</id>
+      <id>60</id>
       <title>
         <key>ru</key>
         <value>Наименование</value>
@@ -78,7 +78,7 @@
       </extendedTooltip>
       <contextMenu>
         <name>СписокНаименованиеКонтекстноеМеню</name>
-        <id>5</id>
+        <id>61</id>
         <autoFill>true</autoFill>
       </contextMenu>
       <type>LabelField</type>
@@ -200,7 +200,7 @@
     <commandBarLocation>None</commandBarLocation>
     <autoCommandBar>
       <name>СписокКоманднаяПанель</name>
-      <id>3</id>
+      <id>58</id>
       <horizontalAlign>Left</horizontalAlign>
       <autoFill>true</autoFill>
     </autoCommandBar>
@@ -295,7 +295,7 @@
     </extendedTooltip>
     <contextMenu>
       <name>СписокКонтекстноеМеню</name>
-      <id>2</id>
+      <id>56</id>
       <autoFill>true</autoFill>
     </contextMenu>
     <changeRowSet>true</changeRowSet>
@@ -695,13 +695,13 @@
   <autoUrl>true</autoUrl>
   <group>Vertical</group>
   <autoFillCheck>true</autoFillCheck>
-  <allowFormCustomize>true</allowFormCustomize>
+  <allowFormCustomize>false</allowFormCustomize>
   <enabled>true</enabled>
   <showTitle>true</showTitle>
   <showCloseButton>true</showCloseButton>
   <attributes>
     <name>Список</name>
-    <id>1</id>
+    <id>55</id>
     <valueType>
       <types>DynamicList</types>
     </valueType>
@@ -735,7 +735,7 @@
       <key>ru</key>
       <value>Индикатор прогресса</value>
     </title>
-    <id>2</id>
+    <id>57</id>
     <valueType>
       <types>Number</types>
       <numberQualifiers>
@@ -755,7 +755,7 @@
       <key>ru</key>
       <value>Сообщение об ошибке</value>
     </title>
-    <id>3</id>
+    <id>59</id>
     <valueType>
       <types>String</types>
       <stringQualifiers/>

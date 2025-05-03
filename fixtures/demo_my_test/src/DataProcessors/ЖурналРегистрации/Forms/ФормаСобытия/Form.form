@@ -6,13 +6,13 @@
   </title>
   <items xsi:type="form:FormGroup">
     <name>ГруппаОсновные</name>
-    <id>1</id>
+    <id>86</id>
     <items xsi:type="form:FormGroup">
       <name>ГруппаДатаКомпьютер</name>
-      <id>7</id>
+      <id>87</id>
       <items xsi:type="form:FormField">
         <name>ДатаВремя</name>
-        <id>9</id>
+        <id>78</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -33,7 +33,7 @@
         </extendedTooltip>
         <contextMenu>
           <name>ДатаВремя_КонтекстноеМеню</name>
-          <id>10</id>
+          <id>80</id>
           <autoFill>true</autoFill>
         </contextMenu>
         <type>InputField</type>
@@ -56,7 +56,7 @@
       </items>
       <items xsi:type="form:FormField">
         <name>Компьютер</name>
-        <id>11</id>
+        <id>77</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -77,7 +77,7 @@
         </extendedTooltip>
         <contextMenu>
           <name>Компьютер_КонтекстноеМеню</name>
-          <id>12</id>
+          <id>76</id>
           <autoFill>true</autoFill>
         </contextMenu>
         <type>InputField</type>
@@ -131,10 +131,10 @@
     </items>
     <items xsi:type="form:FormGroup">
       <name>ГруппаПользовательПриложение</name>
-      <id>8</id>
+      <id>79</id>
       <items xsi:type="form:FormField">
         <name>Пользователь</name>
-        <id>15</id>
+        <id>74</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -155,7 +155,7 @@
         </extendedTooltip>
         <contextMenu>
           <name>Пользователь_КонтекстноеМеню</name>
-          <id>16</id>
+          <id>73</id>
           <autoFill>true</autoFill>
         </contextMenu>
         <type>InputField</type>
@@ -283,10 +283,10 @@
   </items>
   <items xsi:type="form:FormGroup">
     <name>ГруппаСобытие</name>
-    <id>2</id>
+    <id>85</id>
     <items xsi:type="form:FormField">
       <name>Событие</name>
-      <id>13</id>
+      <id>75</id>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
@@ -307,7 +307,7 @@
       </extendedTooltip>
       <contextMenu>
         <name>Событие_КонтекстноеМеню</name>
-        <id>14</id>
+        <id>72</id>
         <autoFill>true</autoFill>
       </contextMenu>
       <type>InputField</type>
@@ -407,7 +407,7 @@
   </items>
   <items xsi:type="form:FormGroup">
     <name>ГруппаДанные</name>
-    <id>4</id>
+    <id>83</id>
     <items xsi:type="form:FormField">
       <name>Метаданные</name>
       <id>21</id>
@@ -574,7 +574,7 @@
   </items>
   <items xsi:type="form:FormGroup">
     <name>ГруппаТранзакция</name>
-    <id>5</id>
+    <id>82</id>
     <items xsi:type="form:FormField">
       <name>ИдентификаторТранзакции</name>
       <id>27</id>
@@ -696,7 +696,7 @@
   </items>
   <items xsi:type="form:FormGroup">
     <name>ГруппаСоединение</name>
-    <id>6</id>
+    <id>81</id>
     <items xsi:type="form:FormGroup">
       <name>ГруппаСеанс</name>
       <id>31</id>
@@ -1010,7 +1010,7 @@
   </items>
   <items xsi:type="form:FormGroup">
     <name>ГруппаКнопкиФормы</name>
-    <id>3</id>
+    <id>84</id>
     <items xsi:type="form:FormGroup">
       <name>ГруппаКнопок</name>
       <id>42</id>

@@ -876,7 +876,7 @@
   <autoUrl>true</autoUrl>
   <group>Vertical</group>
   <autoFillCheck>true</autoFillCheck>
-  <allowFormCustomize>true</allowFormCustomize>
+  <allowFormCustomize>false</allowFormCustomize>
   <enabled>true</enabled>
   <showTitle>true</showTitle>
   <showCloseButton>true</showCloseButton>
@@ -886,7 +886,7 @@
       <key>ru</key>
       <value>Объект</value>
     </title>
-    <id>1</id>
+    <id>4</id>
     <valueType>
       <types>ConstantsSet</types>
     </valueType>
@@ -937,7 +937,7 @@
       <key>ru</key>
       <value>Адрес сертификата</value>
     </title>
-    <id>2</id>
+    <id>5</id>
     <valueType>
       <types>String</types>
       <stringQualifiers/>

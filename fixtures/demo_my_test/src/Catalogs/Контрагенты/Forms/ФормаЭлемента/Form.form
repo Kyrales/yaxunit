@@ -8,7 +8,7 @@
       <id>39</id>
       <items xsi:type="form:FormField">
         <name>Наименование</name>
-        <id>3</id>
+        <id>120</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -49,7 +49,7 @@
       </items>
       <items xsi:type="form:FormField">
         <name>Родитель</name>
-        <id>4</id>
+        <id>122</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -92,7 +92,7 @@
         <id>78</id>
         <items xsi:type="form:FormField">
           <name>ВидЦен</name>
-          <id>15</id>
+          <id>125</id>
           <visible>true</visible>
           <enabled>true</enabled>
           <userVisible>
@@ -230,7 +230,7 @@
       <id>38</id>
       <items xsi:type="form:FormField">
         <name>Код</name>
-        <id>2</id>
+        <id>118</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -332,7 +332,7 @@
       <id>17</id>
       <items xsi:type="form:FormField">
         <name>Регион</name>
-        <id>5</id>
+        <id>134</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -372,7 +372,7 @@
       </items>
       <items xsi:type="form:FormField">
         <name>Страна</name>
-        <id>6</id>
+        <id>133</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -412,7 +412,7 @@
       </items>
       <items xsi:type="form:FormField">
         <name>Город</name>
-        <id>8</id>
+        <id>131</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -452,7 +452,7 @@
       </items>
       <items xsi:type="form:FormField">
         <name>Улица</name>
-        <id>14</id>
+        <id>126</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -492,7 +492,7 @@
       </items>
       <items xsi:type="form:FormField">
         <name>Дом</name>
-        <id>9</id>
+        <id>130</id>
         <title>
           <key>ru</key>
           <value>Дом (стр.)</value>
@@ -536,7 +536,7 @@
       </items>
       <items xsi:type="form:FormField">
         <name>Индекс</name>
-        <id>7</id>
+        <id>132</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -655,7 +655,7 @@
       </items>
       <items xsi:type="form:FormField">
         <name>ЭлектроннаяПочта</name>
-        <id>11</id>
+        <id>128</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -699,7 +699,7 @@
       </items>
       <items xsi:type="form:FormField">
         <name>ВебСайт</name>
-        <id>13</id>
+        <id>127</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -745,7 +745,7 @@
           <id>106</id>
           <items xsi:type="form:FormField">
             <name>Телефон</name>
-            <id>10</id>
+            <id>129</id>
             <visible>true</visible>
             <enabled>true</enabled>
             <userVisible>
@@ -869,7 +869,7 @@
         </items>
         <items xsi:type="form:FormField">
           <name>Факс</name>
-          <id>12</id>
+          <id>124</id>
           <visible>true</visible>
           <enabled>true</enabled>
           <userVisible>
@@ -1654,13 +1654,13 @@
   <autoUrl>true</autoUrl>
   <group>Vertical</group>
   <autoFillCheck>true</autoFillCheck>
-  <allowFormCustomize>true</allowFormCustomize>
+  <allowFormCustomize>false</allowFormCustomize>
   <enabled>true</enabled>
   <showTitle>true</showTitle>
   <showCloseButton>true</showCloseButton>
   <attributes>
     <name>Объект</name>
-    <id>1</id>
+    <id>76</id>
     <valueType>
       <types>CatalogObject.Контрагенты</types>
     </valueType>
@@ -1679,7 +1679,7 @@
       <key>ru</key>
       <value>Таблица сертификатов криптографии</value>
     </title>
-    <id>2</id>
+    <id>119</id>
     <valueType>
       <types>ValueTable</types>
     </valueType>
@@ -1695,7 +1695,7 @@
         <key>ru</key>
         <value>Представление сертификата криптографии</value>
       </title>
-      <id>1</id>
+      <id>77</id>
       <valueType>
         <types>String</types>
         <stringQualifiers/>
@@ -1714,7 +1714,7 @@
       <key>ru</key>
       <value>Идентификатор пользователя системы взаимодействия</value>
     </title>
-    <id>3</id>
+    <id>121</id>
     <valueType/>
     <view>
       <common>true</common>
@@ -1729,7 +1729,7 @@
       <key>ru</key>
       <value>Электронная почта содержит ошибку</value>
     </title>
-    <id>4</id>
+    <id>123</id>
     <valueType>
       <types>Boolean</types>
     </valueType>

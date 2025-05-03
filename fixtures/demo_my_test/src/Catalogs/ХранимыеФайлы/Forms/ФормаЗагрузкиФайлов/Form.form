@@ -2,7 +2,7 @@
 <form:Form xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:form="http://g5.1c.ru/v8/dt/form">
   <items xsi:type="form:FormField">
     <name>Владелец</name>
-    <id>1</id>
+    <id>36</id>
     <visible>true</visible>
     <enabled>true</enabled>
     <userVisible>
@@ -23,7 +23,7 @@
     </extendedTooltip>
     <contextMenu>
       <name>ВладелецКонтекстноеМеню</name>
-      <id>2</id>
+      <id>38</id>
       <autoFill>true</autoFill>
     </contextMenu>
     <type>InputField</type>
@@ -42,7 +42,7 @@
   </items>
   <items xsi:type="form:Table">
     <name>СписокФайлов</name>
-    <id>3</id>
+    <id>40</id>
     <visible>true</visible>
     <enabled>true</enabled>
     <userVisible>
@@ -428,7 +428,7 @@
   <autoUrl>true</autoUrl>
   <group>Vertical</group>
   <autoFillCheck>true</autoFillCheck>
-  <allowFormCustomize>true</allowFormCustomize>
+  <allowFormCustomize>false</allowFormCustomize>
   <enabled>true</enabled>
   <showTitle>true</showTitle>
   <showCloseButton>true</showCloseButton>
@@ -438,7 +438,7 @@
       <key>ru</key>
       <value>Владелец</value>
     </title>
-    <id>1</id>
+    <id>37</id>
     <valueType>
       <types>CatalogRef.Контрагенты</types>
       <types>CatalogRef.Товары</types>
@@ -457,7 +457,7 @@
       <key>ru</key>
       <value>Список файлов</value>
     </title>
-    <id>2</id>
+    <id>39</id>
     <valueType>
       <types>ValueList</types>
     </valueType>
@@ -477,7 +477,7 @@
       <key>ru</key>
       <value>Список загруженных файлов</value>
     </title>
-    <id>3</id>
+    <id>41</id>
     <valueType>
       <types>ValueList</types>
     </valueType>

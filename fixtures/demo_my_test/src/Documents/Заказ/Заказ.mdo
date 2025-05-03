@@ -19,7 +19,7 @@
     <dataHistory>Use</dataHistory>
     <name>Posted</name>
     <fillValue xsi:type="core:UndefinedValue"/>
-    <fullTextSearch>Use</fullTextSearch>
+    <fullTextSearch>DontUse</fullTextSearch>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </standardAttributes>
@@ -27,7 +27,7 @@
     <dataHistory>Use</dataHistory>
     <name>Ref</name>
     <fillValue xsi:type="core:UndefinedValue"/>
-    <fullTextSearch>Use</fullTextSearch>
+    <fullTextSearch>DontUse</fullTextSearch>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </standardAttributes>
@@ -35,7 +35,7 @@
     <dataHistory>Use</dataHistory>
     <name>DeletionMark</name>
     <fillValue xsi:type="core:UndefinedValue"/>
-    <fullTextSearch>Use</fullTextSearch>
+    <fullTextSearch>DontUse</fullTextSearch>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </standardAttributes>
@@ -44,7 +44,7 @@
     <name>Date</name>
     <fillValue xsi:type="core:UndefinedValue"/>
     <fillChecking>ShowError</fillChecking>
-    <fullTextSearch>Use</fullTextSearch>
+    <fullTextSearch>DontUse</fullTextSearch>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </standardAttributes>
@@ -52,7 +52,7 @@
     <dataHistory>Use</dataHistory>
     <name>Number</name>
     <fillValue xsi:type="core:UndefinedValue"/>
-    <fullTextSearch>Use</fullTextSearch>
+    <fullTextSearch>DontUse</fullTextSearch>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </standardAttributes>
@@ -60,7 +60,7 @@
   <basedOn>Catalog.Товары</basedOn>
   <createOnInput>Use</createOnInput>
   <dataLockControlMode>Managed</dataLockControlMode>
-  <fullTextSearch>Use</fullTextSearch>
+  <fullTextSearch>DontUse</fullTextSearch>
   <listPresentation>
     <key>ru</key>
     <value>Заказы</value>
@@ -93,7 +93,7 @@
     <fillChecking>ShowError</fillChecking>
     <fillFromFillingValue>true</fillFromFillingValue>
     <fillValue xsi:type="core:UndefinedValue"/>
-    <fullTextSearch>Use</fullTextSearch>
+    <fullTextSearch>DontUse</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
   <attributes uuid="8c2a1e2b-cdef-4f9a-87b6-a2dc33c2939e">
@@ -109,7 +109,7 @@
     <maxValue xsi:type="core:UndefinedValue"/>
     <fillChecking>ShowError</fillChecking>
     <fillValue xsi:type="core:UndefinedValue"/>
-    <fullTextSearch>Use</fullTextSearch>
+    <fullTextSearch>DontUse</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
   <attributes uuid="0078aeef-66a2-4205-8ef8-c479c569b355">
@@ -131,7 +131,7 @@
     <fillValue xsi:type="core:ReferenceValue">
       <value>Catalog.Валюты.EmptyRef</value>
     </fillValue>
-    <fullTextSearch>Use</fullTextSearch>
+    <fullTextSearch>DontUse</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
   <attributes uuid="020de809-65ca-41c7-b0b8-6646b9a55e7d">
@@ -149,7 +149,7 @@
     <fillValue xsi:type="core:ReferenceValue">
       <value>Catalog.ВидыЦен.EmptyRef</value>
     </fillValue>
-    <fullTextSearch>Use</fullTextSearch>
+    <fullTextSearch>DontUse</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
   <attributes uuid="61cbd59a-6628-4b42-bc20-ee5adc094878">
@@ -167,7 +167,7 @@
     <fillValue xsi:type="core:ReferenceValue">
       <value>Catalog.Организации.EmptyRef</value>
     </fillValue>
-    <fullTextSearch>Use</fullTextSearch>
+    <fullTextSearch>DontUse</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
   <attributes uuid="621aa334-88d3-4f16-a62f-ee2a0a5719f1">
@@ -185,7 +185,7 @@
     <fillValue xsi:type="core:ReferenceValue">
       <value>Enum.СостоянияЗаказов.EnumValue.Открыт</value>
     </fillValue>
-    <fullTextSearch>Use</fullTextSearch>
+    <fullTextSearch>DontUse</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
   <attributes uuid="ce81aaa3-27d2-46ea-b9c3-155c9910d7cf">
@@ -200,7 +200,7 @@
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
     <fillValue xsi:type="core:UndefinedValue"/>
-    <fullTextSearch>Use</fullTextSearch>
+    <fullTextSearch>DontUse</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
   <attributes uuid="db9e7ed9-335d-40c2-a950-d4a4213a7380">
@@ -219,7 +219,7 @@
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
     <fillValue xsi:type="core:UndefinedValue"/>
-    <fullTextSearch>Use</fullTextSearch>
+    <fullTextSearch>DontUse</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
   <forms uuid="eb4d6024-f5e8-48ce-87cc-51aa1d8bdc00">
@@ -254,7 +254,7 @@
       <dataHistory>Use</dataHistory>
       <name>LineNumber</name>
       <fillValue xsi:type="core:UndefinedValue"/>
-      <fullTextSearch>Use</fullTextSearch>
+      <fullTextSearch>DontUse</fullTextSearch>
       <minValue xsi:type="core:UndefinedValue"/>
       <maxValue xsi:type="core:UndefinedValue"/>
     </standardAttributes>
@@ -270,7 +270,7 @@
       <minValue xsi:type="core:UndefinedValue"/>
       <maxValue xsi:type="core:UndefinedValue"/>
       <dataHistory>Use</dataHistory>
-      <fullTextSearch>Use</fullTextSearch>
+      <fullTextSearch>DontUse</fullTextSearch>
     </attributes>
     <attributes uuid="1a79ad10-128e-47a2-8e61-d381d554b6f0">
       <name>Цена</name>
@@ -297,7 +297,7 @@
       <quickChoice>DontUse</quickChoice>
       <createOnInput>Use</createOnInput>
       <dataHistory>Use</dataHistory>
-      <fullTextSearch>Use</fullTextSearch>
+      <fullTextSearch>DontUse</fullTextSearch>
     </attributes>
     <attributes uuid="c5ffcacf-641f-433a-a3da-2fb50451e776">
       <name>Количество</name>
@@ -314,7 +314,7 @@
       <minValue xsi:type="core:UndefinedValue"/>
       <maxValue xsi:type="core:UndefinedValue"/>
       <dataHistory>Use</dataHistory>
-      <fullTextSearch>Use</fullTextSearch>
+      <fullTextSearch>DontUse</fullTextSearch>
     </attributes>
     <attributes uuid="e1f02944-e8f4-400f-9c8d-3fe451018e58">
       <name>Сумма</name>
@@ -332,7 +332,7 @@
       <minValue xsi:type="core:UndefinedValue"/>
       <maxValue xsi:type="core:UndefinedValue"/>
       <dataHistory>Use</dataHistory>
-      <fullTextSearch>Use</fullTextSearch>
+      <fullTextSearch>DontUse</fullTextSearch>
     </attributes>
   </tabularSections>
 </mdclass:Document>

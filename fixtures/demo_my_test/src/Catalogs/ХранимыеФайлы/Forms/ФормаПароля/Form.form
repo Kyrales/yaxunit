@@ -6,7 +6,7 @@
   </title>
   <items xsi:type="form:FormField">
     <name>Пароль</name>
-    <id>1</id>
+    <id>3</id>
     <visible>true</visible>
     <enabled>true</enabled>
     <userVisible>
@@ -111,7 +111,7 @@
   <autoUrl>true</autoUrl>
   <group>Vertical</group>
   <autoFillCheck>true</autoFillCheck>
-  <allowFormCustomize>true</allowFormCustomize>
+  <allowFormCustomize>false</allowFormCustomize>
   <enabled>true</enabled>
   <showTitle>true</showTitle>
   <showCloseButton>true</showCloseButton>
@@ -121,7 +121,7 @@
       <key>ru</key>
       <value>Пароль доступа к закрытому ключу</value>
     </title>
-    <id>1</id>
+    <id>5</id>
     <valueType>
       <types>String</types>
       <stringQualifiers/>

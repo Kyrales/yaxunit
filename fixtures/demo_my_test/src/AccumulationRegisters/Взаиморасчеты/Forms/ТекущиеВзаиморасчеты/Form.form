@@ -91,7 +91,7 @@
     </items>
     <items xsi:type="form:FormField">
       <name>ТаблицаОстатковНашДолг</name>
-      <id>2</id>
+      <id>33</id>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
@@ -129,7 +129,7 @@
     </items>
     <items xsi:type="form:FormField">
       <name>ТаблицаОстатковДолгНам</name>
-      <id>3</id>
+      <id>36</id>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
@@ -293,7 +293,7 @@
     <id>-1</id>
     <items xsi:type="form:Button">
       <name>Обновить</name>
-      <id>4</id>
+      <id>37</id>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
@@ -408,7 +408,7 @@
   <autoUrl>true</autoUrl>
   <group>Vertical</group>
   <autoFillCheck>true</autoFillCheck>
-  <allowFormCustomize>true</allowFormCustomize>
+  <allowFormCustomize>false</allowFormCustomize>
   <enabled>true</enabled>
   <verticalScroll>UseIfNecessary</verticalScroll>
   <showTitle>true</showTitle>
@@ -419,7 +419,7 @@
       <key>ru</key>
       <value>Таблица остатков</value>
     </title>
-    <id>2</id>
+    <id>34</id>
     <valueType>
       <types>ValueTable</types>
     </valueType>
@@ -435,7 +435,7 @@
         <key>ru</key>
         <value>Контрагент</value>
       </title>
-      <id>1</id>
+      <id>35</id>
       <valueType>
         <types>CatalogRef.Контрагенты</types>
       </valueType>

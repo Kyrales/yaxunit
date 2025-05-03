@@ -12,7 +12,7 @@
       <id>16</id>
       <items xsi:type="form:FormField">
         <name>РазрешитьПолнотекстовыйПоиск</name>
-        <id>1</id>
+        <id>27</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -37,7 +37,7 @@
         </extendedTooltip>
         <contextMenu>
           <name>РазрешитьПолнотекстовыйПоискКонтекстноеМеню</name>
-          <id>2</id>
+          <id>29</id>
           <autoFill>true</autoFill>
         </contextMenu>
         <type>CheckBoxField</type>
@@ -51,7 +51,7 @@
       </items>
       <items xsi:type="form:FormField">
         <name>СтатусИндекса</name>
-        <id>3</id>
+        <id>31</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -73,7 +73,7 @@
         </extendedTooltip>
         <contextMenu>
           <name>СтатусИндексаКонтекстноеМеню</name>
-          <id>4</id>
+          <id>33</id>
           <autoFill>true</autoFill>
         </contextMenu>
         <type>LabelField</type>
@@ -88,7 +88,7 @@
       </items>
       <items xsi:type="form:FormField">
         <name>ДатаАктуальностиИндекса</name>
-        <id>5</id>
+        <id>34</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -403,7 +403,7 @@
   <showCloseButton>true</showCloseButton>
   <attributes>
     <name>Объект</name>
-    <id>1</id>
+    <id>28</id>
     <valueType>
       <types>DataProcessorObject.УправлениеПолнотекстовымПоиском</types>
     </valueType>
@@ -421,7 +421,7 @@
       <key>ru</key>
       <value>Разрешить полнотекстовый поиск</value>
     </title>
-    <id>2</id>
+    <id>30</id>
     <valueType>
       <types>Boolean</types>
     </valueType>
@@ -438,7 +438,7 @@
       <key>ru</key>
       <value>Статус индекса</value>
     </title>
-    <id>3</id>
+    <id>32</id>
     <valueType>
       <types>FormattedString</types>
     </valueType>

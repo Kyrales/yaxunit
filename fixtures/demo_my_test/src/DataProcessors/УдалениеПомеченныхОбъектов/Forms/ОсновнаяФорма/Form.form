@@ -6,10 +6,10 @@
   </title>
   <items xsi:type="form:FormGroup">
     <name>СтраницыФормы</name>
-    <id>1</id>
+    <id>9</id>
     <items xsi:type="form:FormGroup">
       <name>ВыборРежимаУдаления</name>
-      <id>6</id>
+      <id>86</id>
       <items xsi:type="form:FormField">
         <name>РежимУдаления</name>
         <id>15</id>
@@ -817,7 +817,7 @@
   </items>
   <items xsi:type="form:FormGroup">
     <name>КомандыФормы</name>
-    <id>2</id>
+    <id>13</id>
     <items xsi:type="form:Button">
       <name>КомандаУдалить</name>
       <id>45</id>
@@ -856,7 +856,7 @@
     </items>
     <items xsi:type="form:Button">
       <name>КомандаДалее</name>
-      <id>3</id>
+      <id>19</id>
       <title>
         <key>ru</key>
         <value>Далее >></value>
@@ -895,7 +895,7 @@
     </items>
     <items xsi:type="form:Button">
       <name>Закрыть</name>
-      <id>4</id>
+      <id>23</id>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
@@ -1019,7 +1019,7 @@
   <showCloseButton>true</showCloseButton>
   <attributes>
     <name>Объект</name>
-    <id>1</id>
+    <id>10</id>
     <valueType>
       <types>DataProcessorObject.УдалениеПомеченныхОбъектов</types>
     </valueType>
@@ -1037,7 +1037,7 @@
       <key>ru</key>
       <value>Режим удаления</value>
     </title>
-    <id>2</id>
+    <id>14</id>
     <valueType>
       <types>String</types>
       <stringQualifiers/>
@@ -1071,7 +1071,7 @@
         <key>ru</key>
         <value>Пометка</value>
       </title>
-      <id>1</id>
+      <id>11</id>
       <valueType>
         <types>Boolean</types>
       </valueType>
@@ -1088,7 +1088,7 @@
         <key>ru</key>
         <value>Значение</value>
       </title>
-      <id>2</id>
+      <id>17</id>
       <valueType>
         <types>String</types>
         <types>AnyRef</types>
@@ -1109,7 +1109,7 @@
         <key>ru</key>
         <value>Представление</value>
       </title>
-      <id>3</id>
+      <id>20</id>
       <valueType>
         <types>String</types>
         <stringQualifiers/>
@@ -1162,7 +1162,7 @@
         <key>ru</key>
         <value>Номер картинки</value>
       </title>
-      <id>1</id>
+      <id>12</id>
       <valueType>
         <types>Number</types>
         <numberQualifiers>
@@ -1183,7 +1183,7 @@
         <key>ru</key>
         <value>Значение</value>
       </title>
-      <id>2</id>
+      <id>18</id>
       <valueType>
         <types>String</types>
         <types>AnyRef</types>
@@ -1204,7 +1204,7 @@
         <key>ru</key>
         <value>Представление</value>
       </title>
-      <id>3</id>
+      <id>21</id>
       <valueType>
         <types>String</types>
         <stringQualifiers/>
@@ -1223,7 +1223,7 @@
       <key>ru</key>
       <value>Пояснение для полного</value>
     </title>
-    <id>3</id>
+    <id>22</id>
     <valueType>
       <types>String</types>
       <stringQualifiers/>
@@ -1241,7 +1241,7 @@
       <key>ru</key>
       <value>Пояснение для выборочного</value>
     </title>
-    <id>4</id>
+    <id>24</id>
     <valueType>
       <types>String</types>
       <stringQualifiers/>

@@ -2,7 +2,7 @@
 <form:Form xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:form="http://g5.1c.ru/v8/dt/form">
   <items xsi:type="form:FormField">
     <name>Пользователь</name>
-    <id>7</id>
+    <id>14</id>
     <visible>true</visible>
     <enabled>true</enabled>
     <userVisible>
@@ -27,7 +27,7 @@
     </extendedTooltip>
     <contextMenu>
       <name>ПользовательКонтекстноеМеню</name>
-      <id>8</id>
+      <id>15</id>
       <autoFill>true</autoFill>
     </contextMenu>
     <type>InputField</type>
@@ -463,13 +463,13 @@
   <autoUrl>true</autoUrl>
   <group>Vertical</group>
   <autoFillCheck>true</autoFillCheck>
-  <allowFormCustomize>true</allowFormCustomize>
+  <allowFormCustomize>false</allowFormCustomize>
   <enabled>true</enabled>
   <showTitle>true</showTitle>
   <showCloseButton>true</showCloseButton>
   <attributes>
     <name>Объект</name>
-    <id>1</id>
+    <id>10</id>
     <valueType>
       <types>DataProcessorObject.УправлениеНастройкамиФорм</types>
     </valueType>
@@ -487,7 +487,7 @@
       <key>ru</key>
       <value>Формы</value>
     </title>
-    <id>2</id>
+    <id>11</id>
     <valueType>
       <types>ValueList</types>
     </valueType>
@@ -507,7 +507,7 @@
       <key>ru</key>
       <value>Пользователь</value>
     </title>
-    <id>3</id>
+    <id>12</id>
     <valueType>
       <types>String</types>
       <stringQualifiers/>
@@ -525,7 +525,7 @@
       <key>ru</key>
       <value>Строка поиска</value>
     </title>
-    <id>4</id>
+    <id>13</id>
     <valueType>
       <types>String</types>
       <stringQualifiers/>

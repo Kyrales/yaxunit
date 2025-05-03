@@ -6,13 +6,13 @@
   </title>
   <items xsi:type="form:FormGroup">
     <name>ГруппаСпискаТоваров</name>
-    <id>3</id>
+    <id>14</id>
     <items xsi:type="form:FormGroup">
       <name>Группа1</name>
       <id>50</id>
       <items xsi:type="form:Table">
         <name>СписокТоваров</name>
-        <id>2</id>
+        <id>4</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -684,7 +684,7 @@
   <autoUrl>true</autoUrl>
   <group>Vertical</group>
   <autoFillCheck>true</autoFillCheck>
-  <allowFormCustomize>true</allowFormCustomize>
+  <allowFormCustomize>false</allowFormCustomize>
   <enabled>true</enabled>
   <verticalScroll>UseIfNecessary</verticalScroll>
   <showTitle>true</showTitle>
@@ -695,7 +695,7 @@
       <key>ru</key>
       <value>Товары</value>
     </title>
-    <id>1</id>
+    <id>12</id>
     <valueType>
       <types>ValueTable</types>
     </valueType>
@@ -711,7 +711,7 @@
         <key>ru</key>
         <value>Товар</value>
       </title>
-      <id>1</id>
+      <id>13</id>
       <valueType>
         <types>CatalogRef.Товары</types>
       </valueType>
@@ -728,7 +728,7 @@
         <key>ru</key>
         <value>Количество</value>
       </title>
-      <id>2</id>
+      <id>7</id>
       <valueType>
         <types>Number</types>
         <numberQualifiers>
@@ -749,7 +749,7 @@
       <key>ru</key>
       <value>Список товаров</value>
     </title>
-    <id>2</id>
+    <id>11</id>
     <valueType>
       <types>DynamicList</types>
     </valueType>

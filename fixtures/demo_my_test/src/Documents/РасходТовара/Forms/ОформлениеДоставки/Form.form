@@ -160,7 +160,7 @@
   </items>
   <items xsi:type="form:FormField">
     <name>ТабличныйДокумент</name>
-    <id>1</id>
+    <id>17</id>
     <title>
       <key>ru</key>
       <value>Заявка на доставку</value>
@@ -189,7 +189,7 @@
     </extendedTooltip>
     <contextMenu>
       <name>ТабличныйДокументКонтекстноеМеню</name>
-      <id>2</id>
+      <id>19</id>
       <autoFill>true</autoFill>
     </contextMenu>
     <type>SpreadsheetDocumentField</type>
@@ -235,7 +235,7 @@
   <autoUrl>true</autoUrl>
   <group>Vertical</group>
   <autoFillCheck>true</autoFillCheck>
-  <allowFormCustomize>true</allowFormCustomize>
+  <allowFormCustomize>false</allowFormCustomize>
   <enabled>true</enabled>
   <verticalScroll>UseIfNecessary</verticalScroll>
   <showTitle>true</showTitle>
@@ -246,7 +246,7 @@
       <key>ru</key>
       <value>Документ</value>
     </title>
-    <id>1</id>
+    <id>18</id>
     <valueType>
       <types>SpreadsheetDocument</types>
     </valueType>

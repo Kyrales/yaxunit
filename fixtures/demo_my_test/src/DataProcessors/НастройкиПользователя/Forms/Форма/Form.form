@@ -5,7 +5,7 @@
     <id>9</id>
     <items xsi:type="form:FormField">
       <name>ПутьКРабочемуКаталогу</name>
-      <id>1</id>
+      <id>18</id>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
@@ -17,7 +17,7 @@
       <titleLocation>None</titleLocation>
       <extendedTooltip>
         <name>ПутьКРабочемуКаталогуExtendedTooltip</name>
-        <id>7</id>
+        <id>33</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
         <autoMaxHeight>true</autoMaxHeight>
@@ -27,7 +27,7 @@
       </extendedTooltip>
       <contextMenu>
         <name>ПутьКРабочемуКаталогуКонтекстноеМеню</name>
-        <id>2</id>
+        <id>20</id>
         <autoFill>true</autoFill>
       </contextMenu>
       <type>InputField</type>
@@ -87,7 +87,7 @@
     <id>11</id>
     <items xsi:type="form:FormField">
       <name>КраткийЗаголовок</name>
-      <id>4</id>
+      <id>30</id>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
@@ -109,7 +109,7 @@
       </extendedTooltip>
       <contextMenu>
         <name>КраткийЗаголовокКонтекстноеМеню</name>
-        <id>5</id>
+        <id>31</id>
         <autoFill>true</autoFill>
       </contextMenu>
       <type>InputField</type>
@@ -441,7 +441,7 @@
     <id>-1</id>
     <items xsi:type="form:Button">
       <name>Сохранить</name>
-      <id>3</id>
+      <id>29</id>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
@@ -450,7 +450,7 @@
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
         <name>СохранитьExtendedTooltip</name>
-        <id>6</id>
+        <id>32</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
         <autoMaxHeight>true</autoMaxHeight>
@@ -486,13 +486,13 @@
   <autoUrl>true</autoUrl>
   <group>Vertical</group>
   <autoFillCheck>true</autoFillCheck>
-  <allowFormCustomize>true</allowFormCustomize>
+  <allowFormCustomize>false</allowFormCustomize>
   <enabled>true</enabled>
   <showTitle>true</showTitle>
   <showCloseButton>true</showCloseButton>
   <attributes>
     <name>Объект</name>
-    <id>1</id>
+    <id>19</id>
     <valueType>
       <types>DataProcessorObject.НастройкиПользователя</types>
     </valueType>

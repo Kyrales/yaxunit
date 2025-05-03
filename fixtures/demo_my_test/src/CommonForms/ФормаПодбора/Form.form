@@ -84,7 +84,7 @@
   </items>
   <items xsi:type="form:FormGroup">
     <name>ГруппаСпискаТоваров</name>
-    <id>3</id>
+    <id>20</id>
     <items xsi:type="form:Addition">
       <title>
         <key>ru</key>
@@ -122,7 +122,7 @@
       <id>50</id>
       <items xsi:type="form:Table">
         <name>ДеревоТоваров</name>
-        <id>4</id>
+        <id>22</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -312,7 +312,7 @@
       </items>
       <items xsi:type="form:Table">
         <name>СписокТоваров</name>
-        <id>2</id>
+        <id>16</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -678,7 +678,7 @@
     <id>19</id>
     <items xsi:type="form:Table">
       <name>Товары</name>
-      <id>5</id>
+      <id>25</id>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
@@ -976,7 +976,7 @@
   </items>
   <items xsi:type="form:FormGroup">
     <name>ДействияФормыОсновные</name>
-    <id>1</id>
+    <id>11</id>
     <visible>true</visible>
     <enabled>true</enabled>
     <userVisible>
@@ -1118,7 +1118,7 @@
   <autoUrl>true</autoUrl>
   <group>Vertical</group>
   <autoFillCheck>true</autoFillCheck>
-  <allowFormCustomize>true</allowFormCustomize>
+  <allowFormCustomize>false</allowFormCustomize>
   <enabled>true</enabled>
   <showTitle>true</showTitle>
   <showCloseButton>true</showCloseButton>
@@ -1128,7 +1128,7 @@
       <key>ru</key>
       <value>Товары</value>
     </title>
-    <id>1</id>
+    <id>14</id>
     <valueType>
       <types>ValueTable</types>
     </valueType>
@@ -1144,7 +1144,7 @@
         <key>ru</key>
         <value>Товар</value>
       </title>
-      <id>1</id>
+      <id>15</id>
       <valueType>
         <types>CatalogRef.Товары</types>
       </valueType>
@@ -1161,7 +1161,7 @@
         <key>ru</key>
         <value>Количество</value>
       </title>
-      <id>2</id>
+      <id>17</id>
       <valueType>
         <types>Number</types>
         <numberQualifiers>
@@ -1182,7 +1182,7 @@
         <key>ru</key>
         <value>Цена</value>
       </title>
-      <id>3</id>
+      <id>21</id>
       <valueType>
         <types>Number</types>
         <numberQualifiers>

@@ -6,10 +6,10 @@
   </title>
   <items xsi:type="form:FormGroup">
     <name>Страницы</name>
-    <id>3</id>
+    <id>9</id>
     <items xsi:type="form:FormGroup">
       <name>СтраницаОтменитьРегистрацию</name>
-      <id>5</id>
+      <id>32</id>
       <items xsi:type="form:FormField">
         <name>ПодтверждениеОтключения</name>
         <id>36</id>
@@ -99,7 +99,7 @@
       <verticalStretch>true</verticalStretch>
       <extendedTooltip>
         <name>СтраницаОтменитьРегистрациюРасширеннаяПодсказка</name>
-        <id>6</id>
+        <id>33</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
         <autoMaxHeight>true</autoMaxHeight>
@@ -490,7 +490,7 @@
     </toolTip>
     <extendedTooltip>
       <name>СтраницыРасширеннаяПодсказка</name>
-      <id>4</id>
+      <id>29</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
       <autoMaxHeight>true</autoMaxHeight>
@@ -524,7 +524,7 @@
   <showCloseButton>true</showCloseButton>
   <attributes>
     <name>Объект</name>
-    <id>1</id>
+    <id>11</id>
     <valueType>
       <types>DataProcessorObject.УправлениеСистемойВзаимодействия</types>
     </valueType>
@@ -542,7 +542,7 @@
       <key>ru</key>
       <value>Код регистрации</value>
     </title>
-    <id>2</id>
+    <id>28</id>
     <valueType>
       <types>String</types>
       <stringQualifiers/>
@@ -560,7 +560,7 @@
       <key>ru</key>
       <value>Адрес электронной почты</value>
     </title>
-    <id>3</id>
+    <id>10</id>
     <valueType>
       <types>String</types>
       <stringQualifiers/>

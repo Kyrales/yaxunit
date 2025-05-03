@@ -2,7 +2,7 @@
 <form:Form xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:form="http://g5.1c.ru/v8/dt/form">
   <items xsi:type="form:FormField">
     <name>Дата</name>
-    <id>3</id>
+    <id>10</id>
     <visible>true</visible>
     <enabled>true</enabled>
     <userVisible>
@@ -23,7 +23,7 @@
     </extendedTooltip>
     <contextMenu>
       <name>ДатаКонтекстноеМеню</name>
-      <id>4</id>
+      <id>11</id>
       <autoFill>true</autoFill>
     </contextMenu>
     <type>InputField</type>
@@ -42,7 +42,7 @@
   </items>
   <items xsi:type="form:FormField">
     <name>Наименование</name>
-    <id>1</id>
+    <id>7</id>
     <visible>true</visible>
     <enabled>true</enabled>
     <userVisible>
@@ -64,7 +64,7 @@
     </extendedTooltip>
     <contextMenu>
       <name>НаименованиеКонтекстноеМеню</name>
-      <id>2</id>
+      <id>9</id>
       <autoFill>true</autoFill>
     </contextMenu>
     <type>InputField</type>
@@ -367,13 +367,13 @@
   <autoUrl>true</autoUrl>
   <group>Vertical</group>
   <autoFillCheck>true</autoFillCheck>
-  <allowFormCustomize>true</allowFormCustomize>
+  <allowFormCustomize>false</allowFormCustomize>
   <enabled>true</enabled>
   <showTitle>true</showTitle>
   <showCloseButton>true</showCloseButton>
   <attributes>
     <name>Объект</name>
-    <id>1</id>
+    <id>8</id>
     <valueType>
       <types>CatalogObject.ВходящиеПисьма</types>
     </valueType>

@@ -224,7 +224,7 @@
     <id>24</id>
     <items xsi:type="form:Table">
       <name>СписокДокументов</name>
-      <id>3</id>
+      <id>6</id>
       <title>
         <key>ru</key>
         <value>Все документы</value>
@@ -283,7 +283,7 @@
       </items>
       <autoCommandBar>
         <name>СписокДокументовКоманднаяПанель</name>
-        <id>5</id>
+        <id>21</id>
         <items xsi:type="form:Button">
           <name>Добавить</name>
           <id>26</id>
@@ -408,7 +408,7 @@
       </extendedTooltip>
       <contextMenu>
         <name>СписокДокументовКонтекстноеМеню</name>
-        <id>4</id>
+        <id>20</id>
         <autoFill>true</autoFill>
       </contextMenu>
       <readOnly>true</readOnly>
@@ -781,7 +781,7 @@
   <autoUrl>true</autoUrl>
   <group>Vertical</group>
   <autoFillCheck>true</autoFillCheck>
-  <allowFormCustomize>true</allowFormCustomize>
+  <allowFormCustomize>false</allowFormCustomize>
   <enabled>true</enabled>
   <showTitle>true</showTitle>
   <showCloseButton>true</showCloseButton>
@@ -791,7 +791,7 @@
       <key>ru</key>
       <value>Объект</value>
     </title>
-    <id>1</id>
+    <id>10</id>
     <valueType>
       <types>DataProcessorObject.ПроведениеДокументов</types>
     </valueType>
@@ -815,7 +815,7 @@
       <key>ru</key>
       <value>Дата начала</value>
     </title>
-    <id>2</id>
+    <id>11</id>
     <valueType>
       <types>Date</types>
       <dateQualifiers>
@@ -838,7 +838,7 @@
       <key>ru</key>
       <value>Дата окончания</value>
     </title>
-    <id>3</id>
+    <id>7</id>
     <valueType>
       <types>Date</types>
       <dateQualifiers>

@@ -6,7 +6,7 @@
   </title>
   <items xsi:type="form:FormField">
     <name>Товар</name>
-    <id>1</id>
+    <id>7</id>
     <visible>true</visible>
     <enabled>true</enabled>
     <userVisible>
@@ -17,7 +17,7 @@
     </dataPath>
     <extendedTooltip>
       <name>ТоварРасширеннаяПодсказка</name>
-      <id>3</id>
+      <id>17</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
       <autoMaxHeight>true</autoMaxHeight>
@@ -27,7 +27,7 @@
     </extendedTooltip>
     <contextMenu>
       <name>ТоварКонтекстноеМеню</name>
-      <id>2</id>
+      <id>16</id>
       <autoFill>true</autoFill>
     </contextMenu>
     <type>InputField</type>
@@ -46,7 +46,7 @@
   </items>
   <items xsi:type="form:FormField">
     <name>Склад</name>
-    <id>4</id>
+    <id>18</id>
     <visible>true</visible>
     <enabled>true</enabled>
     <userVisible>
@@ -184,7 +184,7 @@
   <autoUrl>true</autoUrl>
   <group>Vertical</group>
   <autoFillCheck>true</autoFillCheck>
-  <allowFormCustomize>true</allowFormCustomize>
+  <allowFormCustomize>false</allowFormCustomize>
   <enabled>true</enabled>
   <verticalScroll>UseIfNecessary</verticalScroll>
   <showTitle>true</showTitle>
@@ -195,7 +195,7 @@
       <key>ru</key>
       <value>Товар</value>
     </title>
-    <id>1</id>
+    <id>8</id>
     <valueType>
       <types>CatalogRef.Товары</types>
     </valueType>

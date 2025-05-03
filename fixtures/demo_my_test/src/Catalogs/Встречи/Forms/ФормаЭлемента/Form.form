@@ -347,7 +347,7 @@
       </items>
       <items xsi:type="form:FormField">
         <name>Код</name>
-        <id>1</id>
+        <id>7</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible/>
@@ -366,7 +366,7 @@
         </extendedTooltip>
         <contextMenu>
           <name>КодКонтекстноеМеню</name>
-          <id>2</id>
+          <id>8</id>
           <autoFill>true</autoFill>
         </contextMenu>
         <type>InputField</type>
@@ -547,7 +547,7 @@
   <autoUrl>true</autoUrl>
   <group>Vertical</group>
   <autoFillCheck>true</autoFillCheck>
-  <allowFormCustomize>true</allowFormCustomize>
+  <allowFormCustomize>false</allowFormCustomize>
   <enabled>true</enabled>
   <showTitle>true</showTitle>
   <showCloseButton>true</showCloseButton>

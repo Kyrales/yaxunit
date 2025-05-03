@@ -6,7 +6,7 @@
   </title>
   <items xsi:type="form:FormGroup">
     <name>ОсновнаяКоманднаяПанель</name>
-    <id>1</id>
+    <id>19</id>
     <items xsi:type="form:Button">
       <name>ЖурналРегистрации</name>
       <id>16</id>
@@ -235,7 +235,7 @@
   </items>
   <items xsi:type="form:Table">
     <name>СписокПользователей</name>
-    <id>2</id>
+    <id>57</id>
     <visible>true</visible>
     <enabled>true</enabled>
     <userVisible>
@@ -256,7 +256,7 @@
     <excludedCommands>SortListDesc</excludedCommands>
     <items xsi:type="form:FormField">
       <name>Пользователь</name>
-      <id>4</id>
+      <id>66</id>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
@@ -277,7 +277,7 @@
       </extendedTooltip>
       <contextMenu>
         <name>ПользовательКонтекстноеМеню</name>
-        <id>5</id>
+        <id>63</id>
         <autoFill>true</autoFill>
       </contextMenu>
       <type>InputField</type>
@@ -564,7 +564,7 @@
     </extendedTooltip>
     <contextMenu>
       <name>СписокПользователейКонтекстноеМеню</name>
-      <id>3</id>
+      <id>60</id>
       <items xsi:type="form:Button">
         <name>РаботаПользователя1</name>
         <id>20</id>
@@ -741,7 +741,7 @@
   </items>
   <items xsi:type="form:FormField">
     <name>КоличествоАктивныхПользователей</name>
-    <id>6</id>
+    <id>68</id>
     <visible>true</visible>
     <enabled>true</enabled>
     <userVisible>
@@ -762,7 +762,7 @@
     </extendedTooltip>
     <contextMenu>
       <name>КоличествоАктивныхПользователейКонтекстноеМеню</name>
-      <id>7</id>
+      <id>70</id>
       <autoFill>true</autoFill>
     </contextMenu>
     <type>LabelField</type>
@@ -799,14 +799,14 @@
   <autoUrl>true</autoUrl>
   <group>Vertical</group>
   <autoFillCheck>true</autoFillCheck>
-  <allowFormCustomize>true</allowFormCustomize>
+  <allowFormCustomize>false</allowFormCustomize>
   <enabled>true</enabled>
   <verticalScroll>UseIfNecessary</verticalScroll>
   <showTitle>true</showTitle>
   <showCloseButton>true</showCloseButton>
   <attributes>
     <name>Объект</name>
-    <id>1</id>
+    <id>22</id>
     <valueType>
       <types>DataProcessorObject.СписокАктивныхПользователей</types>
     </valueType>
@@ -824,7 +824,7 @@
       <key>ru</key>
       <value>Список пользователей</value>
     </title>
-    <id>2</id>
+    <id>58</id>
     <valueType>
       <types>ValueTable</types>
     </valueType>
@@ -840,7 +840,7 @@
         <key>ru</key>
         <value>Номер рисунка пользователя</value>
       </title>
-      <id>1</id>
+      <id>56</id>
       <valueType>
         <types>Number</types>
         <numberQualifiers>
@@ -860,7 +860,7 @@
         <key>ru</key>
         <value>Пользователь</value>
       </title>
-      <id>2</id>
+      <id>59</id>
       <valueType>
         <types>String</types>
         <stringQualifiers/>
@@ -878,7 +878,7 @@
         <key>ru</key>
         <value>Приложение</value>
       </title>
-      <id>3</id>
+      <id>61</id>
       <valueType>
         <types>String</types>
         <stringQualifiers/>
@@ -896,7 +896,7 @@
         <key>ru</key>
         <value>Начало работы</value>
       </title>
-      <id>4</id>
+      <id>67</id>
       <valueType>
         <types>Date</types>
         <dateQualifiers/>
@@ -914,7 +914,7 @@
         <key>ru</key>
         <value>Компьютер</value>
       </title>
-      <id>5</id>
+      <id>64</id>
       <valueType>
         <types>String</types>
         <stringQualifiers/>
@@ -932,7 +932,7 @@
         <key>ru</key>
         <value>Сеанс</value>
       </title>
-      <id>6</id>
+      <id>69</id>
       <valueType>
         <types>Number</types>
         <numberQualifiers>
@@ -972,7 +972,7 @@
       <key>ru</key>
       <value>Количество</value>
     </title>
-    <id>3</id>
+    <id>62</id>
     <valueType>
       <types>Number</types>
       <numberQualifiers>
@@ -1010,7 +1010,7 @@
       <key>ru</key>
       <value>Направление сортировки</value>
     </title>
-    <id>5</id>
+    <id>65</id>
     <valueType>
       <types>String</types>
       <stringQualifiers>

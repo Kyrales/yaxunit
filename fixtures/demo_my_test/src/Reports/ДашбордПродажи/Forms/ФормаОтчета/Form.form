@@ -24,7 +24,7 @@
     </extendedTooltip>
     <contextMenu>
       <name>ДиаграммаПоПериодамКонтекстноеМеню</name>
-      <id>9</id>
+      <id>20</id>
       <autoFill>true</autoFill>
     </contextMenu>
     <type>ChartField</type>
@@ -47,7 +47,7 @@
   </items>
   <items xsi:type="form:FormField">
     <name>ДиаграммаПоТоварам</name>
-    <id>11</id>
+    <id>21</id>
     <visible>true</visible>
     <enabled>true</enabled>
     <userVisible>
@@ -69,7 +69,7 @@
     </extendedTooltip>
     <contextMenu>
       <name>ДиаграммаПоТоварамКонтекстноеМеню</name>
-      <id>12</id>
+      <id>22</id>
       <autoFill>true</autoFill>
     </contextMenu>
     <type>ChartField</type>
@@ -109,13 +109,13 @@
   <autoUrl>true</autoUrl>
   <group>Vertical</group>
   <autoFillCheck>true</autoFillCheck>
-  <allowFormCustomize>true</allowFormCustomize>
+  <allowFormCustomize>false</allowFormCustomize>
   <enabled>true</enabled>
   <showTitle>true</showTitle>
   <showCloseButton>true</showCloseButton>
   <attributes>
     <name>Отчет</name>
-    <id>1</id>
+    <id>14</id>
     <valueType>
       <types>ReportObject.ДашбордПродажи</types>
     </valueType>
@@ -133,7 +133,7 @@
       <key>ru</key>
       <value>Результат</value>
     </title>
-    <id>2</id>
+    <id>15</id>
     <valueType>
       <types>SpreadsheetDocument</types>
     </valueType>
@@ -147,7 +147,7 @@
   </attributes>
   <attributes>
     <name>ДанныеРасшифровкиПоПериодам</name>
-    <id>3</id>
+    <id>16</id>
     <valueType>
       <types>String</types>
       <stringQualifiers/>
@@ -165,7 +165,7 @@
       <key>ru</key>
       <value>Диаграмма по периодам</value>
     </title>
-    <id>4</id>
+    <id>17</id>
     <valueType>
       <types>Chart</types>
     </valueType>
@@ -183,7 +183,7 @@
       <key>ru</key>
       <value>Диаграмма по периодам</value>
     </title>
-    <id>6</id>
+    <id>18</id>
     <valueType>
       <types>Chart</types>
     </valueType>
@@ -201,7 +201,7 @@
       <key>ru</key>
       <value>УИОтбор период</value>
     </title>
-    <id>7</id>
+    <id>19</id>
     <valueType>
       <types>String</types>
       <stringQualifiers/>

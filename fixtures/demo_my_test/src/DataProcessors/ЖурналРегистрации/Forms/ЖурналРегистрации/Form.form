@@ -6,7 +6,7 @@
   </title>
   <items xsi:type="form:FormGroup">
     <name>ОсновнаяКоманднаяПанель</name>
-    <id>1</id>
+    <id>23</id>
     <items xsi:type="form:Button">
       <name>ПросмотрТекущегоСобытияВОтдельномОкне</name>
       <id>38</id>
@@ -1699,14 +1699,14 @@
   <saveWindowSettings>true</saveWindowSettings>
   <autoUrl>true</autoUrl>
   <group>Vertical</group>
-  <allowFormCustomize>true</allowFormCustomize>
+  <allowFormCustomize>false</allowFormCustomize>
   <enabled>true</enabled>
   <verticalScroll>UseIfNecessary</verticalScroll>
   <showTitle>true</showTitle>
   <showCloseButton>true</showCloseButton>
   <attributes>
     <name>Объект</name>
-    <id>1</id>
+    <id>24</id>
     <valueType>
       <types>DataProcessorObject.ЖурналРегистрации</types>
     </valueType>
@@ -1724,7 +1724,7 @@
       <key>ru</key>
       <value>Представление отбора</value>
     </title>
-    <id>3</id>
+    <id>28</id>
     <valueType>
       <types>String</types>
       <stringQualifiers/>
@@ -1742,7 +1742,7 @@
       <key>ru</key>
       <value>Журнал событий</value>
     </title>
-    <id>4</id>
+    <id>30</id>
     <valueType>
       <types>ValueTable</types>
     </valueType>
@@ -1758,7 +1758,7 @@
         <key>ru</key>
         <value>Вспомогательный IP Порт</value>
       </title>
-      <id>1</id>
+      <id>25</id>
       <valueType>
         <types>Number</types>
         <numberQualifiers>
@@ -1778,7 +1778,7 @@
         <key>ru</key>
         <value>Данные</value>
       </title>
-      <id>2</id>
+      <id>26</id>
       <valueType>
         <types>AnyRef</types>
       </valueType>
@@ -1795,7 +1795,7 @@
         <key>ru</key>
         <value>Дата</value>
       </title>
-      <id>3</id>
+      <id>29</id>
       <valueType>
         <types>Date</types>
         <dateQualifiers/>
@@ -1813,7 +1813,7 @@
         <key>ru</key>
         <value>Имя пользователя</value>
       </title>
-      <id>4</id>
+      <id>31</id>
       <valueType>
         <types>String</types>
         <stringQualifiers/>
@@ -1831,7 +1831,7 @@
         <key>ru</key>
         <value>Имя приложения</value>
       </title>
-      <id>5</id>
+      <id>34</id>
       <valueType>
         <types>String</types>
         <stringQualifiers/>
@@ -1849,7 +1849,7 @@
         <key>ru</key>
         <value>Комментарий</value>
       </title>
-      <id>6</id>
+      <id>37</id>
       <valueType>
         <types>String</types>
         <stringQualifiers/>
@@ -1867,7 +1867,7 @@
         <key>ru</key>
         <value>Компьютер</value>
       </title>
-      <id>7</id>
+      <id>32</id>
       <valueType>
         <types>String</types>
         <stringQualifiers/>
@@ -1885,7 +1885,7 @@
         <key>ru</key>
         <value>Метаданные</value>
       </title>
-      <id>8</id>
+      <id>39</id>
       <valueType>
         <types>String</types>
         <stringQualifiers/>
@@ -2179,7 +2179,7 @@
       <key>ru</key>
       <value>Количество показываемых событий</value>
     </title>
-    <id>7</id>
+    <id>33</id>
     <valueType>
       <types>Number</types>
       <numberQualifiers>
@@ -2201,7 +2201,7 @@
       <key>ru</key>
       <value>Интервал дат</value>
     </title>
-    <id>2</id>
+    <id>27</id>
     <valueType>
       <types>StandardPeriod</types>
     </valueType>
