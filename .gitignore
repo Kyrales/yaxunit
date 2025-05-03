@@ -39,3 +39,10 @@ documentation/api/
 /tools/**/distr/
 workpath/
 .env
+
+# Демо конфигурацию не передаем
+/fixtures/*
+/tests/DT-INF/PROJECT.PMF
+/exts/yaxunit/DT-INF/PROJECT.PMF
+/exts/smoke/DT-INF/PROJECT.PMF
+/exts/yaxunit/src/Configuration/Configuration.mdo

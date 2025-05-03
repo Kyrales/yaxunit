@@ -18,7 +18,7 @@
   <keepMappingToExtendedConfigurationObjectsByIDs>true</keepMappingToExtendedConfigurationObjectsByIDs>
   <namePrefix>ЮТ</namePrefix>
   <configurationExtensionCompatibilityMode>8.3.10</configurationExtensionCompatibilityMode>
-  <configurationExtensionPurpose>AddOn</configurationExtensionPurpose>
+  <configurationExtensionPurpose>Customization</configurationExtensionPurpose>
   <scriptVariant>Russian</scriptVariant>
   <version>25.03</version>
   <languages uuid="b8fdae66-bc14-47de-9a8d-e0323e0d9ce8">
